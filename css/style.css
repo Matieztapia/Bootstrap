@@ -52,7 +52,7 @@ header {
 main {
     background-color: rgba(230, 247, 154, 0.774);
     background-size: 100%;
-    max-height: 100%;
+    max-width: 100%;
 }
 
 h1 {
@@ -246,6 +246,12 @@ textarea {
     background-color: rgba(169, 230, 78, 0.61);
 }
 
+.talles__layout{
+    width: 80%;
+}
+.ayuda__layout{
+    width: 80%;
+} 
 .p--faq {
     display: inline-block;
     max-width: 1000px;
